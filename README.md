@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="background: #272727">
     <img alt="NextLevelWeek" title="#MaratonaFullCycle3.0" src="https://user-images.githubusercontent.com/39415174/86166659-85050100-baeb-11ea-9b1f-4474b76fae1a.png" />
 </p>
 <p align="center">

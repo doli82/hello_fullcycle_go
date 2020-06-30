@@ -54,13 +54,13 @@ cd hello_fullcycle_go
 Edite o arquivo `src\main.go` e em seguida execute o container docker com o docker-composer, como é mostrado abaixo. Na primeira execução pode demorar um pouco porque a imagem docker ainda não estará contruída.
 
 ```
-docker-composer up
+docker-compose up
 ```
 
 Para finalizar o container criado com p docker composer, use o comando:
 
 ```
-docker-composer down
+docker-compose down
 ```
 
 ## Tecnologias

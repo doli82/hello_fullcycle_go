@@ -1,16 +1,16 @@
-<p align="center" style="background: #272727">
-    <img alt="NextLevelWeek" title="#MaratonaFullCycle3.0" src="https://user-images.githubusercontent.com/39415174/86166659-85050100-baeb-11ea-9b1f-4474b76fae1a.png" />
+<p align="center">
+    <img alt="NextLevelWeek" title="#MaratonaFullCycle3.0" src="https://user-images.githubusercontent.com/39415174/86179340-76751480-bb00-11ea-83ed-67c6307cfbca.png" />
 </p>
 <p align="center">
     <img alt="Repository size" src="https://img.shields.io/github/repo-size/doli82/hello_fullcycle_go?style=plastic" />
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/doli82/hello_fullcycle_go?color=brightgreen&style=plastic" />    
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/doli82/hello_fullcycle_go?color=brightgreen&style=plastic" />
   <a href="https://www.linkedin.com/in/doli/">
-    <img alt="Made by Daniel Oliveira" src="https://img.shields.io/badge/made%20by-doli82-important?style=plastic">
+    <img alt="Made by Daniel Oliveira" src="https://img.shields.io/badge/made%20by-doli82-important?style=plastic" />
   </a>
   <a href="https://github.com/doli82/hello_fullcycle_go/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DanielObara/NLW-1.0?style=plastic">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DanielObara/NLW-1.0?style=plastic" />
   </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=plastic">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=plastic" />
 </p>
 
 # Maratona Full Cycle 3.0

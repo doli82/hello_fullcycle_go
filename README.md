@@ -51,13 +51,13 @@ git clone https://github.com/doli82/hello_fullcycle_go.git
 cd hello_fullcycle_go
 ```
 
-Edite o arquivo `src\main.go` e em seguida execute o container docker com o docker-composer, como é mostrado abaixo. Na primeira execução pode demorar um pouco porque a imagem docker ainda não estará contruída.
+Edite o arquivo `src\main.go` e em seguida execute o container docker com o docker-compose, como é mostrado abaixo. Na primeira execução pode demorar um pouco porque a imagem docker ainda não estará contruída.
 
 ```
 docker-compose up
 ```
 
-Para finalizar o container criado com p docker composer, use o comando:
+Para finalizar o container criado com p docker compose, use o comando:
 
 ```
 docker-compose down

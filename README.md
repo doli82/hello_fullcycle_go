@@ -8,7 +8,7 @@
     <img alt="Made by Daniel Oliveira" src="https://img.shields.io/badge/made%20by-doli82-important?style=plastic" />
   </a>
   <a href="https://github.com/doli82/hello_fullcycle_go/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DanielObara/NLW-1.0?style=plastic" />
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/doli82/hello_fullcycle_go?style=plastic" />
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=plastic" />
 </p>
